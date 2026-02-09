@@ -4,8 +4,8 @@
 # =========================
 
 # Data files (avoid pushing large/generated datasets)
-data/
-*.csv
+data/tmp/
+data/generated/
 *.tsv
 *.parquet
 
