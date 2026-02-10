@@ -20,9 +20,9 @@ This project demonstrates practical experience in data preprocessing, feature en
 
 ## Project Architecture
 .
-├── project_p1.py # Data collection and feature extraction
-├── project_p2.py # Model training, evaluation, and comparison
-├── data/ # Local datasets (CSV files)
+├── project_p1.py        # Data collection and feature extraction
+├── project_p2.py        # Model training, evaluation, and comparison
+├── data/                # Local datasets (CSV files)
 └── README.md
 
 ---
