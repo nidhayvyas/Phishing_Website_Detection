@@ -1,0 +1,44 @@
+# =========================
+# Project specific ignores
+# Phishing Website Detection ML
+# =========================
+
+# Data files (avoid pushing large/generated datasets)
+data/tmp/
+data/generated/
+*.tsv
+*.parquet
+
+# Model artifacts
+models/
+*.pkl
+*.pickle
+*.joblib
+*.sav
+*.model
+*.dat
+
+# Colab / notebook exports and downloads
+*.zip
+*.gz
+*.tgz
+
+# Output folders (plots, reports, logs)
+outputs/
+results/
+reports/
+figures/
+plots/
+*.png
+*.jpg
+*.jpeg
+*.svg
+*.pdf
+
+# Mac OS
+.DS_Store
+
+# Secrets / API keys if you ever add any
+*.pem
+*.key
+secrets/
