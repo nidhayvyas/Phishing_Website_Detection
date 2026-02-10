@@ -42,3 +42,4 @@ plots/
 *.pem
 *.key
 secrets/
+.DS_Store
